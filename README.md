@@ -1,0 +1,1 @@
+# Petrophysical-property-estimation-from-seismic-data-using-recurrent-neural-networks
